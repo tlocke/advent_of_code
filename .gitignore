@@ -1,2 +1,5 @@
 2024/venv
 *.swp
+*.bin
+*.o
+*.lock
